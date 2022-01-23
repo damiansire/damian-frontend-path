@@ -23,4 +23,4 @@ https://24ways.org/2012/design-systems/
 # Javascript
 
 ## Javascript por dentro
-https://www.youtube.com/watch?v=8aGhZQkoFbQ
+Event loop: https://www.youtube.com/watch?v=8aGhZQkoFbQ
