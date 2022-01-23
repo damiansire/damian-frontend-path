@@ -1,5 +1,5 @@
 
-Atomic Design
+# Atomic Design
 
 https://bradfrost.com/blog/post/atomic-web-design/#atoms
 
@@ -18,3 +18,9 @@ http://v3.danielmall.com/articles/rif-element-collages/
 https://alistapart.com/article/responsive-comping-obtaining-signoff-with-mockups/
 
 https://24ways.org/2012/design-systems/
+
+
+# Javascript
+
+## Javascript por dentro
+https://www.youtube.com/watch?v=8aGhZQkoFbQ
