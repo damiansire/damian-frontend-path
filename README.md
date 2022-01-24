@@ -27,4 +27,8 @@ Event loop: https://www.youtube.com/watch?v=8aGhZQkoFbQ
 
 # Css
 
+## Modelo de cajas
 box-sizing -> https://css-tricks.com/box-sizing/
+
+## After y Before
+https://stackoverflow.com/questions/9599811/why-do-i-need-an-empty-content-property-on-an-after-pseudo-element
