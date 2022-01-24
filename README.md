@@ -24,3 +24,7 @@ https://24ways.org/2012/design-systems/
 
 ## Javascript por dentro
 Event loop: https://www.youtube.com/watch?v=8aGhZQkoFbQ
+
+# Css
+
+box-sizing -> https://css-tricks.com/box-sizing/
